@@ -6,7 +6,7 @@
 
 跟随系统壁纸的 Material You 动态配色 · Android 14+
 
-[下载发布](https://github.com/CnGyZzh/WeType_Monet-Gy/releases) · [安装](#安装) · [发布产物](#发布产物) · [构建与更新](#构建与更新) · [更新日志](CHANGELOG.md)
+[下载发布](https://github.com/Gyziel/WeType_Monet-Gy/releases) · [安装](#安装) · [发布产物](#发布产物) · [构建与更新](#构建与更新) · [更新日志](CHANGELOG.md)
 
 </div>
 
@@ -32,7 +32,7 @@
 
 > 需要 Android 14+，以及已启用的 Magisk 或 KernelSU。模块依赖已安装的官方微信输入法。
 
-1. 在 [Releases](https://github.com/CnGyZzh/WeType_Monet-Gy/releases) 下载最新的 `Wetype_Monet_vN.zip`
+1. 在 [Releases](https://github.com/Gyziel/WeType_Monet-Gy/releases) 下载最新的 `Wetype_Monet_vN.zip`
 2. 用 Magisk 或 KernelSU 安装该 ZIP
 3. 重启设备后使用微信输入法
 
@@ -129,8 +129,8 @@ Monet 动态取色依赖 Android 12+ 的 Material You，而本项目的 Overlay 
 [GPL-3.0](LICENSE) © [0x1e93d](https://github.com/0x1e93d)
 
 
-## CnGyZzh Ecosystem
+## Gyziel Ecosystem
 
-**[CnGyZzh Profile](https://github.com/CnGyZzh/CnGyZzh)** · **[Level](https://github.com/CnGyZzh/Level)** · **[HyperMax](https://github.com/CnGyZzh/HyperMax)** · **[ZEEHO Auto](https://github.com/CnGyZzh/ZEEHO-Auto-Gy)**
+**[Gyziel Profile](https://github.com/Gyziel/Gyziel)** · **[Level](https://github.com/Gyziel/Level)** · **[HyperMax](https://github.com/Gyziel/HyperMax)** · **[ZEEHO Auto](https://github.com/Gyziel/ZEEHO-Auto-Gy)**
 
-> 项目索引与公开活动统一由 **Level** 汇总，个人主页由 **CnGyZzh** 作为展示入口。
+> 项目索引与公开活动统一由 **Level** 汇总，个人主页由 **Gyziel** 作为展示入口。
